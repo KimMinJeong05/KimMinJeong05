@@ -1,4 +1,8 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimMinJeong05&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimMinJeong05&layout=compact&theme=tokyonight)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswjd980512)](https://solved.ac/alswjd980512/)
+
 ### Hi there 👋
 <!--
 **KimMinJeong05/KimMinJeong05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
