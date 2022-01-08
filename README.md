@@ -19,7 +19,7 @@
 <br>
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) -->
-[![Notion Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white&link=https://sequoia-sulfur-7e1.notion.site/1583fc0bd6ed465b89aeed7488cfa2d4)](https://sequoia-sulfur-7e1.notion.site/1583fc0bd6ed465b89aeed7488cfa2d4)
+[![Notion Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white&link=https://julie5.notion.site/805b6ba8a0e74153ab0a41b608104264)](https://sequoia-sulfur-7e1.notion.site/1583fc0bd6ed465b89aeed7488cfa2d4)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjeong.kim512@gmail.com)](mailto:minjeong.kim512@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-491652227/)](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-491652227/)
 <!-- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool) -->
