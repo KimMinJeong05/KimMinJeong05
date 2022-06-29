@@ -26,7 +26,7 @@
 <br>
 <div align=center> 
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alswjd980512)](https://solved.ac/alswjd980512/)s
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alswjd980512)](https://solved.ac/alswjd980512/)
 
   [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimMinJeong05&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   ![followers](https://img.shields.io/github/followers/KimMinJeong05?style=social)
