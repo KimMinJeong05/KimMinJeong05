@@ -6,10 +6,10 @@
   - 2020.09.01 ~ 2021.09.01 서울여자대학교 ALGOALGO 소학회 - 알고리즘 소학회
   - 2018.03.01 ~            서울여자대학교 소프트웨어융합학과 전공
 ``` -->
-
+<!-- Python, Java, C++, Kotlin, Django, Flask, Node.js, Spring, MFC -->
 ### 🛠️ Stack
 ```
-  - Back-End: Python, Java, C++, Kotlin, Django, Flask, Node.js, Spring, MFC
+  - Back-End: Python, Java, C++, Kotlin, Django, Flask, Spring
               linux, Android, Docker, Amazon AWS
   - Front-End:  Html/CSS, JavaScript, JQuery
   - DB: MySQL, MongoDB, Firebase, PostgreSQL
