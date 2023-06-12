@@ -9,10 +9,10 @@
 <!-- Python, Java, C++, Kotlin, Django, Flask, Node.js, Spring, MFC -->
 ### 🛠️ Stack
 ```
-  - Back-End: Python, Java, C++, Kotlin, Django, Flask, Spring
-              linux, Android, Docker, Amazon AWS
-  - Front-End:  Html/CSS, JavaScript, JQuery
-  - DB: MySQL, MongoDB, Firebase, PostgreSQL
+  - Back-End: Python, Java, Spring, MyBatis
+              linux, Android, Amazon AWS
+  - Front-End: Html/CSS, JavaScript, JQuery, Vue.js
+  - DB: MySQL, PostgreSQL
   - API: Naver 데이터 랩, Google Cloud Vision API
   - Communication: Zeplin, Slack, Notion
 ```
